@@ -2,11 +2,17 @@
 
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chrollovale&label=Profile%20Views&color=38bdf8&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Platform-macOS%20%7C%20Apple%20Silicon-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS" />
+  <img src="https://img.shields.io/badge/Language-Swift%206%20%7C%20JavaScript-FA7343?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
+</p>
+
 ## 📌 About Me
 - 🎓 **B.Tech Computer Science student** at Chandigarh University.
-- 🍎 **macOS & Swift Developer** crafting high-performance, native desktop apps with SwiftUI, AppKit, and Apple Silicon optimization.
-- 🌐 **Browser Extension Architect** building Manifest V3 tools to automate workflows, bypass restrictions, and enhance productivity.
-- ⚡ **Passionate about reverse engineering**, dev tooling, and creating clean, frictionless user experiences.
+- 🍎 **macOS & Swift Developer** crafting native desktop applications with SwiftUI, AppKit, and Apple Silicon optimization.
+- 🌐 **Browser Extension Architect** engineering high-impact Manifest V3 extensions to automate workflows and bypass restrictions.
+- ⚡ **Passionate about reverse engineering**, dev tooling, and building clean, high-performance software.
 
 ---
 
@@ -28,87 +34,25 @@
 
 ---
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chrollovale&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="chrollovale's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=chrollovale&theme=nightowl&hide_border=true&cache_seconds=86400" alt="chrollovale's GitHub Streak" width="49%" />
-</p>
+## 🛠️ Tech Stack & Skills
 
+| Domain | Technologies |
+|---|---|
+| **macOS & Apple** | ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=flat-square&logo=apple&logoColor=white) ![AppKit](https://img.shields.io/badge/AppKit-555555?style=flat-square&logo=apple&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white) ![Apple Silicon](https://img.shields.io/badge/ARM64-000000?style=flat-square&logo=apple&logoColor=white) |
+| **Browser Extensions** | ![Manifest V3](https://img.shields.io/badge/Manifest_V3-4285F4?style=flat-square&logo=googlechrome&logoColor=white) ![WebExtensions](https://img.shields.io/badge/WebExtensions-FF7139?style=flat-square&logo=firefoxbrowser&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| **Languages & Scripting** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Shell](https://img.shields.io/badge/Bash_/_Zsh-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+| **Developer Tooling** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![ADB](https://img.shields.io/badge/Android_ADB-3DDC84?style=flat-square&logo=android&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
+
+---
+
+## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrollovale&layout=compact&theme=nightowl&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chrollovale&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Aniket Raj's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=chrollovale&theme=nightowl&radius=10" alt="chrollovale's Activity Graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=chrollovale&show_icons=true&theme=nightowl&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chrollovale&layout=compact&theme=nightowl&hide_border=true&langs_count=6" width="49%" alt="Top Languages" />
 </p>
 
 ---
 
-## 🛠️ Languages & Tools
-
-> ### Languages
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" />
+  <sub>Built with precision by <b>Aniket Raj</b></sub>
 </p>
-
-> ### macOS & iOS Ecosystem
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="Apple" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" alt="Xcode" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="SwiftUI" width="48" height="48" style="margin: 4px;" />
-</p>
-
-> ### Frontend & WebExtensions
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="Chrome Extension MV3" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-original.svg" alt="Firefox WebExtension" width="48" height="48" style="margin: 4px;" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" />
-</p>
-
-> ### Backend & Databases
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" />
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="48" height="48" style="margin: 4px;" />
-</p>
-
-> ### Developer Tools & DevOps
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="48" height="48" style="margin: 4px;" />
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" />
-</p>
-
----
-
-## 🔗 Connect with Me
-<p align="center">
-  <a href="mailto:rajaniket2311@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 10px;"/>
-  </a>
-  <a href="https://github.com/chrollovale" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Github.svg" alt="GitHub" width="40" height="40" style="margin: 0 10px;"/>
-  </a>
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
-
-<p align="center"><sub>Built with ❤️ by Aniket Raj</sub></p>
