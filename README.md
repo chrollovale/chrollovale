@@ -23,8 +23,8 @@ B.Tech Computer Science student at Chandigarh University building **native macOS
 | Project | Description | Target |
 |---|---|---|
 | **[Master IDE Copier](https://github.com/chrollovale/Master-IDE-Copier)** | Bypasses clipboard restrictions and enables staircase-free pasting in Monaco & Web IDEs. | Chromium & Firefox (Manifest V3) |
-| **[WTF Coursera](https://github.com/chrollovale/wtf-coursera)** | Automated course progress sweep, lesson fast-forwarding, and AI-powered quiz solver. | Chrome, Brave, Edge |
-| **[WTF LinkedIn Learning](https://github.com/chrollovale/wtf-linkedin-learning)** | Video progress automation and dialog dismissal for seamless course tracking. | Chromium Browsers |
+| **[WTF Coursera](https://github.com/chrollovale/WTF-Coursera)** | Automated course progress sweep, lesson fast-forwarding, and AI-powered quiz solver. | Chrome, Brave, Edge |
+| **[WTF LinkedIn Learning](https://github.com/chrollovale/WTF-LinkedIn-Learning)** | Video progress automation and dialog dismissal for seamless course tracking. | Chromium Browsers |
 
 ---
 
