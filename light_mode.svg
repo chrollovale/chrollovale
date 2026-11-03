@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="'SF Mono','Menlo','Consolas',monospace" width="960px" height="480px" font-size="14px">
+<style>
+text, tspan {white-space: pre;}
+.key {fill: #953800;}
+.val {fill: #0550ae;}
+.add {fill: #1a7f37;}
+.del {fill: #cf222e;}
+.dim {fill: #8b949e;}
+.hdr {fill: #24292f; font-weight: bold;}
+.txt {fill: #24292f;}
+</style>
+<rect width="960" height="480" fill="#ffffff" rx="12" stroke="#d0d7de" stroke-width="1"/>
+
+<!-- ─── ASCII Art: Apple Logo ─── -->
+<text x="30" y="44" class="txt" font-size="13">
+<tspan x="30" y="44">                 ,**,.</tspan>
+<tspan x="30" y="60">               ,*****.;</tspan>
+<tspan x="30" y="76">              ;*' `***'</tspan>
+<tspan x="30" y="92">              ;      ;</tspan>
+<tspan x="30" y="108">        ,,,--'`   .`--,,,</tspan>
+<tspan x="30" y="124">     .;''  ,;/\,   ,\/;,  ``;.</tspan>
+<tspan x="30" y="140">    .'  ;,'`       `    '`,;  `.</tspan>
+<tspan x="30" y="156">   /  ,'`                   `;  \</tspan>
+<tspan x="30" y="172">  / ,'`        aniket@mac       `; \</tspan>
+<tspan x="30" y="188">  |;`                             `;|</tspan>
+<tspan x="30" y="204">  ||          B.Tech CSE            ||</tspan>
+<tspan x="30" y="220">  ||     Chandigarh University      ||</tspan>
+<tspan x="30" y="236">  ||                                ||</tspan>
+<tspan x="30" y="252">  |;                                ;|</tspan>
+<tspan x="30" y="268">   \ ',                          ,' /</tspan>
+<tspan x="30" y="284">    \ '`,;                    ;,` /</tspan>
+<tspan x="30" y="300">     `., `'*;              ;*'` ,.'</tspan>
+<tspan x="30" y="316">        ``'--,,`,      ,`,,--'``</tspan>
+<tspan x="30" y="332">              \ `'''''` /</tspan>
+<tspan x="30" y="348">               \       /</tspan>
+<tspan x="30" y="364">                \     /</tspan>
+<tspan x="30" y="380">                 \   /</tspan>
+<tspan x="30" y="396">                  \ /</tspan>
+<tspan x="30" y="412">                   V</tspan>
+</text>
+
+<!-- ─── Info Block ─── -->
+<text x="380" y="44" class="txt">
+<tspan x="380" y="44" class="hdr">aniket</tspan><tspan class="dim">@</tspan><tspan class="hdr">chrollovale</tspan><tspan class="dim"> ——————————————————————————————————————</tspan>
+<tspan x="380" y="66" class="dim">  </tspan><tspan class="key">OS</tspan><tspan class="dim">:</tspan><tspan class="dim"> .......................... </tspan><tspan class="val">macOS (Apple Silicon), Android</tspan>
+<tspan x="380" y="88" class="dim">  </tspan><tspan class="key">Shell</tspan><tspan class="dim">:</tspan><tspan class="dim"> ....................... </tspan><tspan class="val">zsh 5.9, Swift REPL</tspan>
+<tspan x="380" y="110" class="dim">  </tspan><tspan class="key">IDE</tspan><tspan class="dim">:</tspan><tspan class="dim"> ......................... </tspan><tspan class="val">Xcode 16, VS Code</tspan>
+<tspan x="380" y="132" class="dim">  </tspan><tspan class="key">Host</tspan><tspan class="dim">:</tspan><tspan class="dim"> ........................ </tspan><tspan class="val">Chandigarh University (B.Tech CSE)</tspan>
+<tspan x="380" y="154" class="dim">  </tspan>
+<tspan x="380" y="176" class="dim">  </tspan><tspan class="key">Languages</tspan><tspan class="dim">.</tspan><tspan class="key">Primary</tspan><tspan class="dim">:</tspan><tspan class="dim"> ......... </tspan><tspan class="val">Swift, JavaScript, TypeScript</tspan>
+<tspan x="380" y="198" class="dim">  </tspan><tspan class="key">Languages</tspan><tspan class="dim">.</tspan><tspan class="key">Secondary</tspan><tspan class="dim">:</tspan><tspan class="dim"> ....... </tspan><tspan class="val">Python, C++, Java, Shell</tspan>
+<tspan x="380" y="220" class="dim">  </tspan><tspan class="key">Languages</tspan><tspan class="dim">.</tspan><tspan class="key">Markup</tspan><tspan class="dim">:</tspan><tspan class="dim"> .......... </tspan><tspan class="val">HTML, CSS, JSON, YAML</tspan>
+<tspan x="380" y="242" class="dim">  </tspan>
+<tspan x="380" y="264" class="dim">  </tspan><tspan class="key">Frameworks</tspan><tspan class="dim">.</tspan><tspan class="key">Apple</tspan><tspan class="dim">:</tspan><tspan class="dim"> ......... </tspan><tspan class="val">SwiftUI, AppKit, Combine, SPM</tspan>
+<tspan x="380" y="286" class="dim">  </tspan><tspan class="key">Frameworks</tspan><tspan class="dim">.</tspan><tspan class="key">Web</tspan><tspan class="dim">:</tspan><tspan class="dim"> ........... </tspan><tspan class="val">Manifest V3, WebExtensions API</tspan>
+<tspan x="380" y="308" class="dim">  </tspan><tspan class="key">Tools</tspan><tspan class="dim">:</tspan><tspan class="dim"> ...................... </tspan><tspan class="val">Git, ADB, Docker, Instruments</tspan>
+<tspan x="380" y="330" class="dim">  </tspan>
+<tspan x="380" y="352" class="dim">— </tspan><tspan class="hdr">GitHub Stats</tspan><tspan class="dim"> ——————————————————————————————————————————</tspan>
+<tspan x="380" y="374" class="dim">  </tspan><tspan class="key">Repos</tspan><tspan class="dim">:</tspan><tspan class="dim"> ........... </tspan><tspan class="val">7</tspan><tspan class="dim"> | </tspan><tspan class="key">Stars</tspan><tspan class="dim">:</tspan><tspan class="dim"> ................. </tspan><tspan class="val">0</tspan>
+<tspan x="380" y="396" class="dim">  </tspan><tspan class="key">Commits</tspan><tspan class="dim">:</tspan><tspan class="dim"> ......... </tspan><tspan class="val">21</tspan><tspan class="dim"> | </tspan><tspan class="key">Followers</tspan><tspan class="dim">:</tspan><tspan class="dim"> ............. </tspan><tspan class="val">0</tspan>
+<tspan x="380" y="418" class="dim">  </tspan>
+<tspan x="380" y="440" class="dim">— </tspan><tspan class="hdr">Current Focus</tspan><tspan class="dim"> —————————————————————————————————————————</tspan>
+<tspan x="380" y="462" class="dim">  </tspan><tspan class="val">Native macOS apps</tspan><tspan class="dim"> · </tspan><tspan class="val">Browser extensions</tspan><tspan class="dim"> · </tspan><tspan class="val">Dev tooling</tspan>
+</text>
+</svg>
