@@ -1,64 +1,66 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="'SF Mono','Menlo','Consolas',monospace" width="960px" height="470px" font-size="14px">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="'SF Mono','Menlo','Consolas',monospace" width="985px" height="510px" font-size="14px">
 <style>
 text, tspan {white-space: pre;}
 .key {fill: #953800;}
-.val {fill: #0550ae;}
+.val {fill: #0969da;}
 .add {fill: #1a7f37;}
 .del {fill: #cf222e;}
-.dim {fill: #8b949e;}
-.hdr {fill: #24292f; font-weight: bold;}
-.txt {fill: #24292f;}
-.apple {fill: #1a7f37;}
+.dim {fill: #8c959f;}
+.hdr {fill: #1f2328; font-weight: bold;}
+.txt {fill: #1f2328;}
+.apple {fill: #1f2328;}
 </style>
-<rect width="960" height="470" fill="#ffffff" rx="12" stroke="#d0d7de" stroke-width="1"/>
+<rect width="985" height="510" fill="#ffffff" rx="14" stroke="#d0d7de" stroke-width="1"/>
 
-<!-- ─── Window dots ─── -->
-<circle cx="24" cy="16" r="6" fill="#cf222e"/>
-<circle cx="44" cy="16" r="6" fill="#953800"/>
-<circle cx="64" cy="16" r="6" fill="#1a7f37"/>
+<!-- Terminal window buttons -->
+<circle cx="28" cy="22" r="6" fill="#f85149"/>
+<circle cx="48" cy="22" r="6" fill="#9a6700"/>
+<circle cx="68" cy="22" r="6" fill="#3fb950"/>
 
-<!-- ─── ASCII Art: neofetch macOS Apple Logo ─── -->
-<text x="30" y="56" font-size="13">
-<tspan x="50" y="56"  class="apple">                 'c.</tspan>
-<tspan x="50" y="72"  class="apple">              ,xNMM.</tspan>
-<tspan x="50" y="88"  class="apple">            .OMMMMo</tspan>
-<tspan x="50" y="104" class="apple">            OMMM0,</tspan>
-<tspan x="50" y="120" class="apple">  .;loddo:' loolloddol;.</tspan>
-<tspan x="50" y="136" class="apple">cKMMMMMMMMMMNWMMMMMMMMMM0:</tspan>
-<tspan x="50" y="152" class="apple">.KMMMMMMMMMMMMMMMMMMMMMMMWd.</tspan>
-<tspan x="50" y="168" class="apple">XMMMMMMMMMMMMMMMMMMMMMMMX.</tspan>
-<tspan x="50" y="184" class="apple">;MMMMMMMMMMMMMMMMMMMMMMMM:</tspan>
-<tspan x="50" y="200" class="apple">:MMMMMMMMMMMMMMMMMMMMMMMM:</tspan>
-<tspan x="50" y="216" class="apple">.MMMMMMMMMMMMMMMMMMMMMMMMX.</tspan>
-<tspan x="50" y="232" class="apple"> kMMMMMMMMMMMMMMMMMMMMMMMMWd.</tspan>
-<tspan x="50" y="248" class="apple"> .XMMMMMMMMMMMMMMMMMMMMMMMMk</tspan>
-<tspan x="50" y="264" class="apple">  .XMMMMMMMMMMMMMMMMMMMMK.</tspan>
-<tspan x="50" y="280" class="apple">    kMMMMMMMMMMMMMMMMMMd.</tspan>
-<tspan x="50" y="296" class="apple">     ;KMMMMMMMWXXWMMMk.</tspan>
-<tspan x="50" y="312" class="apple">       .cooc,.    .,coo:.</tspan>
+<!-- ASCII Art: macOS Apple Logo -->
+<text x="35" y="100" font-size="13.5">
+<tspan x="35" y="100" class="apple">                    c.</tspan>
+<tspan x="35" y="118" class="apple">                 ,xNMM.</tspan>
+<tspan x="35" y="136" class="apple">               .OMMMMo</tspan>
+<tspan x="35" y="154" class="apple">               lMMMY</tspan>
+<tspan x="35" y="172" class="apple">     :lllooo:,    loooo:</tspan>
+<tspan x="35" y="190" class="apple">   cKMMMMMMMMMMNWMMMMMMMM0:</tspan>
+<tspan x="35" y="208" class="apple"> .KMMMMMMMMMMMMMMMMMMMMMMMWd.</tspan>
+<tspan x="35" y="226" class="apple"> XMMMMMMMMMMMMMMMMMMMMMMMX.</tspan>
+<tspan x="35" y="244" class="apple">;MMMMMMMMMMMMMMMMMMMMMMMM:</tspan>
+<tspan x="35" y="262" class="apple">:MMMMMMMMMMMMMMMMMMMMMMMM:</tspan>
+<tspan x="35" y="280" class="apple">.MMMMMMMMMMMMMMMMMMMMMMMMX.</tspan>
+<tspan x="35" y="298" class="apple"> kMMMMMMMMMMMMMMMMMMMMMMMMWd.</tspan>
+<tspan x="35" y="316" class="apple"> .XMMMMMMMMMMMMMMMMMMMMMMMMk</tspan>
+<tspan x="35" y="334" class="apple">  .XMMMMMMMMMMMMMMMMMMMMK.</tspan>
+<tspan x="35" y="352" class="apple">    kMMMMMMMMMMMMMMMMMMd.</tspan>
+<tspan x="35" y="370" class="apple">     ;KMMMMMMMWXXWMMMk.</tspan>
+<tspan x="35" y="388" class="apple">       .cooc,.    .,coo:.</tspan>
+<tspan x="35" y="420" class="dim">      aniket@macbook-pro</tspan>
 </text>
 
-<!-- ─── Info Block ─── -->
-<text x="380" y="56" class="txt">
-<tspan x="380" y="56"  class="hdr">aniket</tspan><tspan class="dim">@</tspan><tspan class="hdr">chrollovale</tspan><tspan class="dim"> ——————————————————————————————————————</tspan>
-<tspan x="380" y="78"  class="dim">  </tspan><tspan class="key">OS</tspan><tspan class="dim">:</tspan><tspan class="dim"> .......................... </tspan><tspan class="val">macOS (Apple Silicon), Android</tspan>
-<tspan x="380" y="100" class="dim">  </tspan><tspan class="key">Shell</tspan><tspan class="dim">:</tspan><tspan class="dim"> ....................... </tspan><tspan class="val">zsh 5.9, Swift REPL</tspan>
-<tspan x="380" y="122" class="dim">  </tspan><tspan class="key">IDE</tspan><tspan class="dim">:</tspan><tspan class="dim"> ......................... </tspan><tspan class="val">Xcode 16, VS Code</tspan>
-<tspan x="380" y="144" class="dim">  </tspan><tspan class="key">Host</tspan><tspan class="dim">:</tspan><tspan class="dim"> ........................ </tspan><tspan class="val">Chandigarh University (B.Tech CSE)</tspan>
-<tspan x="380" y="166" class="dim">  </tspan>
-<tspan x="380" y="188" class="dim">  </tspan><tspan class="key">Languages</tspan><tspan class="dim">.</tspan><tspan class="key">Primary</tspan><tspan class="dim">:</tspan><tspan class="dim"> ......... </tspan><tspan class="val">Swift, JavaScript, TypeScript</tspan>
-<tspan x="380" y="210" class="dim">  </tspan><tspan class="key">Languages</tspan><tspan class="dim">.</tspan><tspan class="key">Secondary</tspan><tspan class="dim">:</tspan><tspan class="dim"> ....... </tspan><tspan class="val">Python, C++, Java, Shell</tspan>
-<tspan x="380" y="232" class="dim">  </tspan><tspan class="key">Languages</tspan><tspan class="dim">.</tspan><tspan class="key">Markup</tspan><tspan class="dim">:</tspan><tspan class="dim"> .......... </tspan><tspan class="val">HTML, CSS, JSON, YAML</tspan>
-<tspan x="380" y="254" class="dim">  </tspan>
-<tspan x="380" y="276" class="dim">  </tspan><tspan class="key">Frameworks</tspan><tspan class="dim">.</tspan><tspan class="key">Apple</tspan><tspan class="dim">:</tspan><tspan class="dim"> ......... </tspan><tspan class="val">SwiftUI, AppKit, Combine, SPM</tspan>
-<tspan x="380" y="298" class="dim">  </tspan><tspan class="key">Frameworks</tspan><tspan class="dim">.</tspan><tspan class="key">Web</tspan><tspan class="dim">:</tspan><tspan class="dim"> ........... </tspan><tspan class="val">Manifest V3, WebExtensions API</tspan>
-<tspan x="380" y="320" class="dim">  </tspan><tspan class="key">Tools</tspan><tspan class="dim">:</tspan><tspan class="dim"> ...................... </tspan><tspan class="val">Git, ADB, Docker, Instruments</tspan>
-<tspan x="380" y="342" class="dim">  </tspan>
-<tspan x="380" y="364" class="dim">— </tspan><tspan class="hdr">GitHub Stats</tspan><tspan class="dim"> ——————————————————————————————————————————</tspan>
-<tspan x="380" y="386" class="dim">  </tspan><tspan class="key">Repos</tspan><tspan class="dim">:</tspan><tspan class="dim"> ........... </tspan><tspan class="val">7</tspan><tspan class="dim"> | </tspan><tspan class="key">Stars</tspan><tspan class="dim">:</tspan><tspan class="dim"> ................. </tspan><tspan class="val">0</tspan>
-<tspan x="380" y="408" class="dim">  </tspan><tspan class="key">Commits</tspan><tspan class="dim">:</tspan><tspan class="dim"> ......... </tspan><tspan class="val">21</tspan><tspan class="dim"> | </tspan><tspan class="key">Followers</tspan><tspan class="dim">:</tspan><tspan class="dim"> ............. </tspan><tspan class="val">0</tspan>
-<tspan x="380" y="430" class="dim">  </tspan>
-<tspan x="380" y="452" class="dim">— </tspan><tspan class="hdr">Current Focus</tspan><tspan class="dim"> —————————————————————————————————————————</tspan>
+<!-- Info Block -->
+<text x="365" y="55" class="txt">
+<tspan x="365" y="55" class="hdr">aniket</tspan><tspan class="dim">@</tspan><tspan class="hdr">chrollovale</tspan><tspan class="dim"> ———————————————————————————————————————————</tspan>
+<tspan x="365" y="77" class="dim">  </tspan><tspan class="key">OS</tspan><tspan class="dim">:</tspan><tspan class="dim"> .......................... </tspan><tspan class="val">macOS Sequoia (Apple Silicon)</tspan>
+<tspan x="365" y="99" class="dim">  </tspan><tspan class="key">Shell</tspan><tspan class="dim">:</tspan><tspan class="dim"> ....................... </tspan><tspan class="val">zsh 5.9, Swift REPL</tspan>
+<tspan x="365" y="121" class="dim">  </tspan><tspan class="key">IDE</tspan><tspan class="dim">:</tspan><tspan class="dim"> ......................... </tspan><tspan class="val">Xcode 16, VS Code</tspan>
+<tspan x="365" y="143" class="dim">  </tspan><tspan class="key">Host</tspan><tspan class="dim">:</tspan><tspan class="dim"> ........................ </tspan><tspan class="val">Chandigarh University (B.Tech CSE)</tspan>
+<tspan x="365" y="165" class="dim">  </tspan>
+<tspan x="365" y="187" class="dim">  </tspan><tspan class="key">Languages</tspan><tspan class="dim">.</tspan><tspan class="key">Primary</tspan><tspan class="dim">:</tspan><tspan class="dim"> ......... </tspan><tspan class="val">Swift, JavaScript, TypeScript</tspan>
+<tspan x="365" y="209" class="dim">  </tspan><tspan class="key">Languages</tspan><tspan class="dim">.</tspan><tspan class="key">Secondary</tspan><tspan class="dim">:</tspan><tspan class="dim"> ....... </tspan><tspan class="val">Python, C++, Java, Shell</tspan>
+<tspan x="365" y="231" class="dim">  </tspan><tspan class="key">Languages</tspan><tspan class="dim">.</tspan><tspan class="key">Markup</tspan><tspan class="dim">:</tspan><tspan class="dim"> .......... </tspan><tspan class="val">HTML, CSS, JSON, YAML</tspan>
+<tspan x="365" y="253" class="dim">  </tspan>
+<tspan x="365" y="275" class="dim">  </tspan><tspan class="key">Frameworks</tspan><tspan class="dim">.</tspan><tspan class="key">Apple</tspan><tspan class="dim">:</tspan><tspan class="dim"> ......... </tspan><tspan class="val">SwiftUI, AppKit, Combine, SPM</tspan>
+<tspan x="365" y="297" class="dim">  </tspan><tspan class="key">Frameworks</tspan><tspan class="dim">.</tspan><tspan class="key">Web</tspan><tspan class="dim">:</tspan><tspan class="dim"> ........... </tspan><tspan class="val">Manifest V3, WebExtensions API</tspan>
+<tspan x="365" y="319" class="dim">  </tspan><tspan class="key">Tools</tspan><tspan class="dim">:</tspan><tspan class="dim"> ...................... </tspan><tspan class="val">Git, ADB, Docker, Instruments</tspan>
+<tspan x="365" y="341" class="dim">  </tspan>
+<tspan x="365" y="363" class="dim">— </tspan><tspan class="hdr">GitHub Stats</tspan><tspan class="dim"> —————————————————————————————————————————————</tspan>
+<tspan x="365" y="385" class="dim">  </tspan><tspan class="key">Repos</tspan><tspan class="dim">:</tspan><tspan class="dim"> ........... </tspan><tspan class="val">7</tspan><tspan class="dim"> | </tspan><tspan class="key">Commits</tspan><tspan class="dim">:</tspan><tspan class="dim"> ................. </tspan><tspan class="val">20+</tspan>
+<tspan x="365" y="407" class="dim">  </tspan><tspan class="key">Focus</tspan><tspan class="dim">:</tspan><tspan class="dim"> ........... </tspan><tspan class="val">Native macOS Apps</tspan><tspan class="dim"> &amp; </tspan><tspan class="val">Browser Extensions</tspan>
+<tspan x="365" y="429" class="dim">  </tspan>
+<tspan x="365" y="451" class="dim">— </tspan><tspan class="hdr">Featured Work</tspan><tspan class="dim"> ————————————————————————————————————————————</tspan>
+<tspan x="365" y="473" class="dim">  </tspan><tspan class="val">Shift</tspan><tspan class="dim"> · </tspan><tspan class="val">SlopMonsterMac</tspan><tspan class="dim"> · </tspan><tspan class="val">KeyInjector</tspan><tspan class="dim"> · </tspan><tspan class="val">Master-IDE-Copier</tspan>
 </text>
 </svg>
