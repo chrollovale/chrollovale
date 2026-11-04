@@ -1,7 +1,7 @@
 <a href="https://github.com/chrollovale">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chrollovale/chrollovale/main/dark_mode.svg">
-    <img alt="Aniket Raj's GitHub Profile" src="https://raw.githubusercontent.com/chrollovale/chrollovale/main/light_mode.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chrollovale/chrollovale/main/dark_mode.svg?v=clipchef-2.8.2">
+    <img alt="Aniket Raj's GitHub Profile" src="https://raw.githubusercontent.com/chrollovale/chrollovale/main/light_mode.svg?v=clipchef-2.8.2">
   </picture>
 </a>
 
