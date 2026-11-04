@@ -11,16 +11,16 @@
 
 ### macOS Applications
 
-| Project | Description | Stack |
-|---|---|---|
-| **[Shift](https://github.com/chrollovale/Shift)** | High-speed bidirectional Android file transfer app for Mac with retro Platinum aesthetics. | `macOS 13+` `Swift` `SwiftUI` `ADB` |
-| **[SlopMonster for macOS](https://github.com/chrollovale/SlopMonsterMac)** | Native desktop app and menu-bar tool to detect and eliminate AI tells and hollow prose. | `macOS 14+` `Swift 6` `NaturalLanguage` |
-| **[KeyInjector](https://github.com/chrollovale/KeyInjector)** | Character-by-character keystroke and code injector with countdown audio cues. | `macOS 14+` `Swift` `Accessibility API` |
+| Project | Description | Stack | Latest |
+|---|---|---|---|
+| **[Shift](https://github.com/chrollovale/Shift)** | Bidirectional Android file transfer for Mac, with a retro Platinum interface. | `macOS 13+` `Swift` `SwiftUI` `ADB` | [v1.0.0](https://github.com/chrollovale/Shift/releases/tag/v1.0.0) |
+| **[SlopMonster for macOS](https://github.com/chrollovale/SlopMonsterMac)** | Native app and menu bar tool for identifying and revising AI-like writing. | `macOS 14+` `Swift 6` `NaturalLanguage` | [v3.0.0](https://github.com/chrollovale/SlopMonsterMac/releases/tag/v3.0.0) |
+| **[KeyInjector](https://github.com/chrollovale/KeyInjector)** | Types text and code into other apps one character at a time, with countdown audio cues. | `macOS` `Swift` `Accessibility API` | [v1.0.0](https://github.com/chrollovale/KeyInjector/releases/tag/v1.0.0) |
 
 ### Browser Extensions
 
-| Project | Description | Platform |
-|---|---|---|
-| **[Master IDE Copier](https://github.com/chrollovale/Master-IDE-Copier)** | Universal suite to bypass clipboard restrictions and perform clean paste in online IDEs. | `Chromium` `Firefox` `Manifest V3` |
-| **[WTF Coursera](https://github.com/chrollovale/WTF-Coursera)** | Automated course progress sweep, lesson fast-forwarding, and AI quiz solving. | `Chrome` `Brave` `Edge` |
-| **[WTF LinkedIn Learning](https://github.com/chrollovale/WTF-LinkedIn-Learning)** | Video tracking automation and dialog dismissal for seamless course progression. | `Chromium Browsers` |
+| Project | Description | Platform | Latest |
+|---|---|---|---|
+| **[ClipChef](https://github.com/chrollovale/ClipChef)** | Clipboard toolbar for copying complete Monaco and VS Code Web buffers and pasting without recursive indentation. | `Chromium` `Firefox` `Manifest V3` | [v2.8.2](https://github.com/chrollovale/ClipChef/releases/tag/v2.8.2) |
+| **[WTF Coursera](https://github.com/chrollovale/WTF-Coursera)** | Course progress tools for lessons, readings, and AI-assisted quiz workflows. | `Chrome` `Brave` `Edge` | [v1.1.5](https://github.com/chrollovale/WTF-Coursera/releases/tag/v1.1.5) |
+| **[WTF LinkedIn Learning](https://github.com/chrollovale/WTF-LinkedIn-Learning)** | Automates video progress tracking and dismisses course dialogs. | `Chromium Browsers` | [v1.1.0](https://github.com/chrollovale/WTF-LinkedIn-Learning/releases/tag/v1.1.0) |
